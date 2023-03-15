@@ -1,0 +1,15 @@
+C:\Users\IhwanuL\source\repos\SensorVTall\SensorVTall\bin\Debug\SensorVTall.exe.config
+C:\Users\IhwanuL\source\repos\SensorVTall\SensorVTall\bin\Debug\SensorVTall.exe
+C:\Users\IhwanuL\source\repos\SensorVTall\SensorVTall\bin\Debug\SensorVTall.pdb
+C:\Users\IhwanuL\source\repos\SensorVTall\SensorVTall\bin\Debug\LiveCharts.dll
+C:\Users\IhwanuL\source\repos\SensorVTall\SensorVTall\bin\Debug\LiveCharts.pdb
+C:\Users\IhwanuL\source\repos\SensorVTall\SensorVTall\bin\Debug\LiveCharts.xml
+C:\Users\IhwanuL\source\repos\SensorVTall\SensorVTall\obj\Debug\SensorVTall.csproj.AssemblyReference.cache
+C:\Users\IhwanuL\source\repos\SensorVTall\SensorVTall\obj\Debug\SensorVTall.csproj.SuggestedBindingRedirects.cache
+C:\Users\IhwanuL\source\repos\SensorVTall\SensorVTall\obj\Debug\SensorVTall.Form1.resources
+C:\Users\IhwanuL\source\repos\SensorVTall\SensorVTall\obj\Debug\SensorVTall.Properties.Resources.resources
+C:\Users\IhwanuL\source\repos\SensorVTall\SensorVTall\obj\Debug\SensorVTall.csproj.GenerateResource.cache
+C:\Users\IhwanuL\source\repos\SensorVTall\SensorVTall\obj\Debug\SensorVTall.csproj.CoreCompileInputs.cache
+C:\Users\IhwanuL\source\repos\SensorVTall\SensorVTall\obj\Debug\SensorVTall.csproj.CopyComplete
+C:\Users\IhwanuL\source\repos\SensorVTall\SensorVTall\obj\Debug\SensorVTall.exe
+C:\Users\IhwanuL\source\repos\SensorVTall\SensorVTall\obj\Debug\SensorVTall.pdb
